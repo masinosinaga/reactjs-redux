@@ -1,0 +1,151 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Masino Sinaga",
+          "alamat": "Bandung",
+          "umur": 47,
+          "nohp": "081220907593"
+        },
+        {
+          "id": 2,
+          "nama": "Dorce Simatupang",
+          "alamat": "Bekasi",
+          "umur": 47,
+          "nohp": "081242423204"
+        },
+        {
+          "id": 3,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 4,
+          "nama": "Suka Suka",
+          "alamat": "Yogyakarta",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 5,
+          "nama": "Dina Mariana",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 6,
+          "nama": "Juniar Helena Waty Malau",
+          "alamat": "Medan",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 7,
+          "nama": "Nur Aisah",
+          "alamat": "Jakarta",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 8,
+          "nama": "Anita Puspitasari",
+          "alamat": "Jakarta",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 9,
+          "nama": "Endang Lenawati Panggabean",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 10,
+          "nama": "Gita Fitriani",
+          "alamat": "Bandung",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 11,
+          "nama": "Barita Dame Hutagalung",
+          "alamat": "Medan",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 12,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 13,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 14,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 15,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 16,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 17,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 18,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 19,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 20,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        },
+        {
+          "id": 21,
+          "nama": "Elvis Sinaga",
+          "alamat": "Surabaya",
+          "umur": 47,
+          "nohp": "087772452293"
+        }
+      ]
+}
